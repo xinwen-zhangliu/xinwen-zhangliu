@@ -8,6 +8,7 @@ Welcome to my profile! I'm a Computer Science student.
 ![Emacs](https://img.shields.io/badge/-%20Emacs%20-%20Emacs?style=flat&logo=gnuemacs&logoColor=%23ffffff&color=%238153b5)
 ![C](https://img.shields.io/badge/-%20C%20?style=flat&logo=c&color=%2300599d)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)
+![Java](https://img.shields.io/badge/-%20Java%20-%20Java?style=flat&logo=openjdk&logoColor=%23ffffff&color=%23b43136)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent&hide=makefile" alt="langs"/></a> 
 </p>  
