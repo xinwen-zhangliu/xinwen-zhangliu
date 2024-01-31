@@ -3,7 +3,7 @@ Welcome to my profile! I'm currently a Computer Science student.
 
 ## My tech stack 
 ![Rust](https://img.shields.io/badge/-%20Rust%20-%20Rust?style=flat&logo=rust&color=%20%23b7410e)
-![C++](https://img.shields.io/badge/-%20C%2B%2B%20-%20C%2B%2B?style=flat&logo=c%2B%2B&color=%20%23b7410e)
+![C++](https://img.shields.io/badge/-%20C%2B%2B%20-%20C%2B%2B?style=flat&logo=c%2B%2B&color=%23488bd4)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent&hide=makefile" alt="langs"/></a> 
 </p>  
