@@ -1,5 +1,5 @@
 ### Hi I'm Xin Wen 👋
-Welcome to my profile! I'm currently a Computer Science student.
+Welcome to my profile! I'm a Computer Science student.
 
 ## My tech stack 
 ![Rust](https://img.shields.io/badge/-%20Rust%20-%20Rust?style=flat&logo=rust&color=%20%23b7410e)
