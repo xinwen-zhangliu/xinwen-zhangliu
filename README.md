@@ -6,7 +6,7 @@ Welcome to my profile! I'm currently a Computer Science student.
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent" /></a> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent" alt="langs"/></a> 
 </p>  
 
 
