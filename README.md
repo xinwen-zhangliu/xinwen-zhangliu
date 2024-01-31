@@ -7,6 +7,7 @@ Welcome to my profile! I'm a Computer Science student.
 ![LaTex](https://img.shields.io/badge/-%20LaTex%20-%20LaTex?style=flat&logo=latex&color=%23189990)
 ![Emacs](https://img.shields.io/badge/-%20Emacs%20-%20Emacs?style=flat&logo=emacs&color=%237e5ab4)
 ![C](https://img.shields.io/badge/-%20C%20?style=flat&logo=c&color=%2300599d)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent&hide=makefile" alt="langs"/></a> 
 </p>  
