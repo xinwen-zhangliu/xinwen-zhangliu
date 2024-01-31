@@ -12,7 +12,7 @@ Welcome to my profile! I'm currently a Computer Science student.
   <a href="https://www.linkedin.com/in/xinwen-zhangliu/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
 </p> 
 ## My tech stack 
-![Rust](https://img.shields.io/badge/-Rust-%23E44D27?style=flat-square&logo=rust&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/text-orange&logo=rust&logoColor=ffffff)
 
 <!--
  
