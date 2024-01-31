@@ -5,8 +5,8 @@ Welcome to my profile! I'm currently a Computer Science student.
 
 
 
-<p align="right">
-  <a href="www.linkedin.com/in/xinwen-zhangliu" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent" /></a> 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent" /></a> 
 </p>  
 
 
