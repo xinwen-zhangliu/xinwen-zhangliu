@@ -10,7 +10,7 @@ Welcome to my profile! I'm a Computer Science student.
 ![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/-%20Java%20-%20Java?style=flat&logo=openjdk&logoColor=%23ffffff&color=%23b43136)
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent&hide=makefile" alt="langs"/></a> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=onedark&hide=makefile" alt="langs"/></a> 
 </p>  
 
 
