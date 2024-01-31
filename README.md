@@ -2,7 +2,8 @@
 Welcome to my profile! I'm currently a Computer Science student.
 
 ## My tech stack 
-![Rust](https://img.shields.io/badge/text-orange&logo=rust&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-%20Rust%20-%20Rust?style=flat&logo=rust&color=%20%23b7410e)
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent&hide=makefile" alt="langs"/></a> 
 </p>  
