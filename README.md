@@ -1,7 +1,8 @@
 ### Hi I'm Xin Wen 👋
 Welcome to my profile! I'm currently a Computer Science student.
 
-
+## My tech stack 
+![Rust](https://img.shields.io/badge/text-orange&logo=rust&logoColor=ffffff)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinwen-zhangliu&theme=transparent&hide=makefile" alt="langs"/></a> 
 </p>  
@@ -11,8 +12,7 @@ Welcome to my profile! I'm currently a Computer Science student.
 <p align="right">
   <a href="https://www.linkedin.com/in/xinwen-zhangliu/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
 </p> 
-## My tech stack 
-![Rust](https://img.shields.io/badge/text-orange&logo=rust&logoColor=ffffff)
+
 
 <!--
  
